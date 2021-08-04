@@ -1,5 +1,9 @@
 # Flix
 
+### learn ReactJs
+
+## Thanks [nomadcoder](https://nomadcoders.co/) 👍
+
 ## Screens
 
 -   [ ] Home
